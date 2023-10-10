@@ -1,2 +1,2 @@
-API developed with Strapi CMS, PostgreSQL and Cloudinary.
+Web site developed with Remix Framework
 
